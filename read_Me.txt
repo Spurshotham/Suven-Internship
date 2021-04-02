@@ -1,4 +1,4 @@
-# Seven-Internship
+# Suven-Internship
 Project Name = "Consumer Loan Assistant Project"
 Tools - Netbeans
 language - java String
