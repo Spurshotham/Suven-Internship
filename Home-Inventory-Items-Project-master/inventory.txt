@@ -4,7 +4,7 @@ My Space
 ACERSWIFT01
 true
 45000
-01/10/2019
+10/4/2020
 Flipkart
 Light Weight and Handy
 images\acer.jpg
@@ -13,7 +13,7 @@ Dressing Table
 BOROLINE02
 true
 15
-01/11/2020
+11/4/2020
 Medical Shop
 Antiseptic and Good for Skin
 images\boroline.jpg
@@ -22,7 +22,7 @@ Dressing Table
 NAILCUTTER03
 true
 15
-01/03/2020
+12/04/2020
 General Store
 Difficult to Find
 images\nailcutter.jpg
@@ -31,7 +31,7 @@ Kitchen
 BIKAJI05
 false
 Diwali Gift
-11/11/2020
+13/3/2020
 Sister's Office
 go to Snacks
 images\namkeen.jpg
@@ -40,7 +40,7 @@ Drawing Room
 PENDENTLIGHT06
 true
 1500
-13/11/2019
+14/11/2019
 Electrical Shop
 Beautiful in Dark
 images\pendentLight.jpg
@@ -49,7 +49,7 @@ Wardrobe
 AELOMART03
 true
 450
-01/08/2020
+15/08/2020
 Flipkart
 6-pack abs feel
 images\tshirt.jpg
